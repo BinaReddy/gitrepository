@@ -1,4 +1,0 @@
-This is my first file in git.
-changed in github
-changed this file in linux
-hello
